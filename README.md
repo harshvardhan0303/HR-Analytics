@@ -5,3 +5,14 @@ Suppose the manager wants to hold a meeting with the employees in which he/she w
 
 ## Solution Approach
 In this context, firstly I have created the scenario by taking myself as manager and thinking what will be the answers I want and by asking the relevant questions with myself. After that I have gone through different approach taken by the students and professionals to answer these questions and their drawbacks.  In continuity based on my questions which I have framed myself I started creating measures accordingly. Once I have done with creating measures , I started creating visuals for the same in PowerBI and endup by creating dashboard, next important step is taking review for my dashboard which I have created for this I have taken help of my friends and what they suggested I have edited that as well.
+
+## Tech Stack
+Visualisation: Power BI
+
+Dependencies: MS Excel
+
+Performance Metrics: MS Excel and Basic count and sum formulas.
+
+## Project Architecture
+
+![image](https://github.com/harshvardhan0303/HR-Analytics/assets/91109131/e113a7ea-34ce-41bd-922d-94065891c373)
