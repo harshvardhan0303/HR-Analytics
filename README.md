@@ -16,3 +16,8 @@ Performance Metrics: MS Excel and Basic count and sum formulas.
 ## Project Architecture
 
 ![image](https://github.com/harshvardhan0303/HR-Analytics/assets/91109131/e113a7ea-34ce-41bd-922d-94065891c373)
+
+## Results
+The screenshot below is the dashboard which i have created for the presence analysis of the employees. The three key indicators shows the presence percent , work from home percent and sick leave percent. Moreover, it contains the line chart date wise and matrix as well to identify the trend followed by the employees in taking personal leave. The month filter at the top help in analysing the presence percent of employees month wise. After receiving the raw data , I have calculated these measures and for the proper understanding of these terms by the newbie at the bottom I have added the full-form of the short-form used. 
+
+![image](https://github.com/harshvardhan0303/HR-Analytics/assets/91109131/5ab5712c-966f-43a6-ac93-6ff10474069d)
